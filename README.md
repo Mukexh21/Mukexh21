@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mukexh
+- 👋 Hi, I’m Mukexh
 - 🌱 I’m a Frontend Web Developer.
 - Learning Javascript.
 - 📫Email - mukexh.21@gmail.com
