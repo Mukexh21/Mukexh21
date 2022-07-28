@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mukexh
 - 🌱 I’m a Frontend Web Developer.
-- Learning Javascript.
+- 🗝️ Learning Javascript.
 - 📫Email - mukexh.21@gmail.com
 
 <!---
